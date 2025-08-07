@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EmployeeDepartmentFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.5.
@@ -109,3 +110,6 @@ git commit -m "Initial commit: employee-department Angular frontend"
 # 6. Push to the main branch (use 'main' or 'master' depending on the repo)
 git branch -M main
 git push -u origin main
+=======
+# employee-department-frontend-angular
+>>>>>>> 7535a7edaf461895a7369f0336fd9c81570eafd6
